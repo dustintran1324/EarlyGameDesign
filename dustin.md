@@ -1,28 +1,33 @@
-# Game Name
+# Cascade Casa
 
 ## Elevator Pitch
 
-*A one sentence pitch for your game. Pretend that your were pitching your game to an executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
+*An interactive home decor simulation game where players learn CSS by styling and arranging furniture in a virtual house.*
 
 ## Influences (Brief)
 
-- *Influence #1*:
+- *Influence #1*: Stardew Valley [https://www.stardewvalley.net/]
+  - Medium: *Game*
+  - Explanation: **
+- *Influence #2*: Grid Garden [https://cssgridgarden.com/]
   - Medium: *(Television, Games, Literature, Movies, etc.)*
   - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #2*:
+- *Influence #3*: Flexbox Froggy [https://flexboxfroggy.com/]
   - Medium: *(Television, Games, Literature, Movies, etc.)*
   - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #3*:
+- *Influence #4*: The Sims [https://en.wikipedia.org/wiki/The_Sims]
   - Medium: *(Television, Games, Literature, Movies, etc.)*
   - Explanation: *In one paragraph or less, explain why this is an influence.*
-
 ## Core Gameplay Mechanics (Brief)
 
 *Give a very high-level description of any core gameplay mechanics*
 
 - *Gameplay Mechanic #1*
+
 - *Gameplay Mechanic #2*
+
 - *Gameplay Mechanic #3*
+
 - *Gameplay Mechanic #4*
 
 # Learning Aspects
