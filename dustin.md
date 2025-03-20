@@ -1,129 +1,152 @@
 # Cascade Casa
 
-## Elevator Pitch
+## What is Cascade Casa?
 
-*An interactive home decor simulation game where players learn CSS by styling and arranging furniture in a virtual house.*
+*Cascade Casa is an interactive 2D home decor simulation game designed to teach CSS concepts through home decoration and design challenges. Players will apply CSS properties to arrange furniture, customize rooms, and unlock new areas of a virtual house while solving progressively more challenging styling puzzles.*
 
-## Influences (Brief)
+## Influences
 
 - *Influence #1*: Stardew Valley [https://www.stardewvalley.net/]
-  - Medium: *Game*
-  - Explanation: **
+Inspires the cozy, cutesy art style and open-ended gameplay with rewarding progression mechanics.
 - *Influence #2*: Grid Garden [https://cssgridgarden.com/]
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+Demonstrates how CSS grid layout can be gamified.
 - *Influence #3*: Flexbox Froggy [https://flexboxfroggy.com/]
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+Another CSS related game that showcases how puzzles is also a fun learning style.
 - *Influence #4*: The Sims [https://en.wikipedia.org/wiki/The_Sims]
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-## Core Gameplay Mechanics (Brief)
+The house customization and object placement mechanics are similar to how players will use CSS to style and position objects in Cascade Casa.
+## Core Gameplay Mechanics 
+- *CSS-Based Puzzles: Players apply CSS properties to style rooms and arrange furniture.*
 
-*Give a very high-level description of any core gameplay mechanics*
+- *Level Progression: Different rooms introduce new CSS concepts, starting from basics to advanced topics.*
 
-- *Gameplay Mechanic #1*
+- *Customizable Home: Players can personalize their home using CSS principles like Flexbox, Grid, and animations.*
 
-- *Gameplay Mechanic #2*
+- *Magic Journal Guide: Acts as a narrator and interactive tutorial, guiding players through levels and challenges.*
 
-- *Gameplay Mechanic #3*
-
-- *Gameplay Mechanic #4*
-
+## Core Gameplay Dynamics
+- *Problem-Solving & Iteration: Players experiment with CSS properties, receive feedback, and iterate to find the best design solutions.*
+- *Narrative Engagement: A storyline with a magic journal adds depth, helping to make the game more engaging.*
+- *Creative Expression: The game encourages customization and self-expression through decor choices.*
 # Learning Aspects
-
 ## Learning Domains
 
-*Briefly list any and all of the disciplines and learning domains for this subject.*
+*UI/UX Design*
+*Web Development*
 
 ## Target Audiences
-
-*Who are your learners?*
-
+*Beginner & Inermediate CSS users*
+*Hobbyists interested in web development*
+*K-12 students (Middle school and up)*
 ## Target Contexts
-
-*Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
-
+*Computer Lab*
+*Self-pace course learning modules*
+*Open source educational web development game*
 ## Learning Objectives
-
-*Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
-
-- *Short Name*: *Formal Learning Objective #1*
-- *Short Name*: *Formal Learning Objective #2*
-- *Short Name*: *Formal Learning Objective #3*
-
+- *CSS Layouts*: *By the end of the instructions, learners are able to apply Flexbox & Grid through structuring rooms*
+- *Box Model*: *By the end of the instructions, learners are able to adjust margins, padding, and borders through designing furniture arrangements*
 ## Prerequisite Knowledge
-
-*What do they need to know prior to trying this game?*
-
-- *Prerequisite Learning Objective #1*
-- *Prerequisite Learning Objective #2*
-
+- *Basic HTML*
+- *Foundational Technology Knowledge*
 ## Assessment Measures
 
-*Describe how the learning will be assessed, e.g., pre/post multiple-choice test, or SAT, or some other instrument.*
+*Room Challenges:Each room presents a CSS-based task that must be solved before progressing.*
 
-*If proposing a new instrument, briefly and concisely list some example assessment questions.*
+*Completion Objects: Players earn more household items for mastering different CSS topics.*
 
+*Pre/Post Assessment: Optional quizzes in the form of Magic Journal story-telling to measure improvement in CSS understanding*
 # What sets this project apart?
-
-*Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
-
-- *Reason #1*
-- *Reason #2*
-- *Reason #3*
-- *Reason #4*
-- *etc.*
-
+- *Aesthetic & Engaging UI: A 2D pixel-art interface with cute art style and soundtrack will attract a lot of design enthusiasts.*
+- *Hands-on CSS Learning: Unlike static coding tutorials, Cascade Casa integrates interactive design challenges.*
+- *Adulthood & Story-telling Gameplay: The magic journal provides an exciting journal and motivation for students when they get to own and decorate their first house fresh out of college*
 # Player Interaction Patterns and Modes
 
 ## Player Interaction Pattern
-
-*Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
-
+- *Single-player, self-paced learning experience.*
+- *Drag-and-drop to visualize CSS effects.*
+- *Code input and preview system (text-matching) to see real-time changes.*
 ## Player Modes
-
-*Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
-
-- *Player mode #1*: *Description*
-- *Player mode #2*: *Description*
-- *etc.*
-
+- *Learning Mode*: *Progress through different house levels, unlocking new rooms and CSS concepts, and follow a storyline*
+- *Test Mode/Free-play mode*: *Experiment with CSS freely in a sandbox environment. This mode can help players to get used to the game more and also to test out their own creative layout*
 # Gameplay Objectives
-
-- *Primary Objective #1*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *Primary Objective #2*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *etc.*
+- *Primary Objective #1: Enter the correct "spells" in the magic journal to learn CSS syntax*:
+    - Description: *Players must correctly style elements within each room using CSS properties by filling in the blank in the magic journal*
+    - Alignment: *Reinforces learning objectives by requiring correct application of CSS rules*
+- *Primary Objective #2: Unlock & Customize Rooms*:
+    - Description: *Successfully styling rooms unlocks new sections of the house.*
+    - Alignment: *Encourages iterative learning and experimentation with different CSS techniques & a linear learning progression*
 
 # Procedures/Actions
 
-*Describe the control scheme and what actions a user can take in the game.*
+*Click to Choose Action: Navigate between different levels, move forward, go back, or access revision materials*
+
+*CSS Input Journal: Type the correct CSS code with or without hints in the magic journal to solve styling challenges.*
+
+*Hint & Help Bar: Unlock a help revision section in the bar upon completing a room, allowing learners to revisit and reapply concepts later in the game.*
+
+*Dragging Objects: Click and move unlocked furniture within the room to visualize positioning changes.*
+
+*Magic Journal Hints: Receive hint for new concepts.*
+
+
 
 # Rules
 
-*What resources are available to the player that they make use of?  How does this affect gameplay? How are these resources finite?*
+*Each level has specific CSS objectives (e.g., "Center the sofa using Flexbox").*
+
+*Players must meet the level requirements before proceeding.*
+
+*Limited hints available per level.*
 
 # Objects/Entities
 
-*What other things are in the world that you need to design? These may or may not directly translate to actual objects and classes.*
+*Furniture & Decor Items: Objects styled using CSS properties.*
+
+*Magic Journal: Main companion -- guides players and tracks progress.*
+
+*Rooms & Houses: Different levels correspond to CSS concepts.*
 
 ## Core Gameplay Mechanics (Detailed)
 
-- *Core Gameplay Mechanic #1*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #2*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #3*: *Describe in 2 paragraphs or less, along with how it generally works*
+*Core Mechanic #1: CSS-Based Designs*
+- Positioning and Movement:
+    position: (static, relative, absolute, fixed)
+    top, left, right, bottom: for moving elements
+    transform: for animations (translate, rotate, scale)
+- Color and Background:
+    color: text color
+    background-color: background color of elements
+    background-image: adding images as backgrounds
+- Text and Font:
+    font-size: changing text size
+    font-family: choosing different fonts
+    text-align: aligning text (left, center, right)
+- Box Model (Spacing):
+    margin: space outside the element
+    padding: space inside the element
+    border: defining borders and border-radius for round edges
+- Flexbox (Alignment):
+    display: flex; for arranging items horizontally or vertically
+    justify-content: for horizontal alignment
+    align-items: for vertical alignment
+- Animations and Transitions:
+    transition: for smooth changes
+    keyframes: for custom animations
+- Visibility and Display:
+    display: block, inline, none, flex, grid
+    visibility: visible, hidden
+
+*Core Mechanic #2: Challenge & Progression System*
+Each room introduces a new CSS concept, ensuring incremental learning. Progress is tracked through in-game achievements.
 
     
 ## Feedback
-
-*Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
-
-*Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
-
+*Types of learning feedback: Praise & Encouragement, Result, Explaination of Mistake, Hint on Next Step, Metacognitive Guidance*
+*Valence: Positve*
+*Channels used: SFX & Animaations*
+*Some examples:*
+*Real-Time Changes: Shows immediate effects of CSS changes.*
+*Audio & Visual Cues: Success animations and sounds for correct solutions.*
+*Journal Progress Reports: Summarizes completed challenges and unlocked skills.*
 # Story and Gameplay
 
 ## Presentation of Rules
@@ -165,7 +188,6 @@
 
 
 ## Audio
-
 
 *Game region/phase/time are ways of designating a particularly important place in the game.*
 
