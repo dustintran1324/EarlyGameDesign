@@ -173,12 +173,12 @@ Each room introduces a new CSS concept, ensuring incremental learning. Progress 
 
 ## Aethestics
 
-*Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
+*Cascade Casa is meant to feel magical and cozy way more like a quiet rainy day with a warm hot chocolate than a coding bootcamp. We’re going for a soft, whimsical vibe that feels more like flipping through a spellbook than writing CSS. The visuals are cartoonish and gentle, with floating journals, glowy accents, and little magical touches that make it feel alive. Instead of feeling like you're solving code problems, it feels like you're decorating a space that means something to you. The music is chill and lowkey, maybe a little lo-fi or soft ambient, just enough to help you relax and get into a creative flow.*
 
 ## Graphical
 *Early game sketches*
 ![Journal UI Mockup](graphics/CCNotebook.png)
-![Floorplan](graphics/CCfloorPlanR.png)
+![Floorplan](graphics/CCfloorPlanRD.png)
 ![ColorsAesthetic](graphics/CClivroomFinished.png)
 ![ColorsAesthetic2](graphics/CClivRoomClick.png)
 
