@@ -170,19 +170,11 @@ Each room introduces a new CSS concept, ensuring incremental learning. Progress 
 *Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
 
 ## Graphical
-
-- Characters List
-  - *Characters 1*
-  - *Characters 2*
-  - *...*
-- Textures:
-  - *Texture 1*
-  - *Texture 2*
-  - *...*
-- Environment Art/Textures:
-  - *Environment Texture 1*
-  - *Environment Texture 2*
-  - *...*
+*Early game sketches*
+![Journal UI Mockup](graphics/CCNotebook.png)
+![Floorplan](graphics/CCfloorPlanRD (1).png)
+![ColorsAesthetic](graphics/CClivroomFinished (1).png)
+![ColorsAesthetic2](graphics/CClivRoomClick (1).png)
 
 
 ## Audio
