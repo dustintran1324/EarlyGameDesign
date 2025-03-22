@@ -160,9 +160,15 @@ Each room introduces a new CSS concept, ensuring incremental learning. Progress 
 *The player has just moved to a new town after graduating college. Upon entering their new home, they discover an old, rusty journal on the doorstep. To their surprise, it transforms into a floating, self-writing magic journal. The landlord is nowhere to be found. As it turns out, the journal belonged to one of the player's ancient ancestor - a powerful magic practitioner who believed a well-decorated home ensured harmony and good fortune. To build a happy future, the player must master ancient "CSS Spells" and restore life and balance to each room in the house through thoughtful, magical design.*
 
 ## Storyboarding
-
-*Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
-
+![Landing Page](graphics/landing.png)
+![Level Select](graphics/levels.png)
+![Properties 1](graphics/functions1.png)
+![Properties 2](graphics/functions2.png)
+![Properties 3](graphics/functions3.png)
+![Kitchen Example 1](graphics/kitchen.png)
+![Kitchen Example 2](graphics/kitchen2.png)
+![Bedroom Example 1](graphics/bedroom3.png)
+![Bedroom Example 2](graphics/bedroom4.png)
 # Assets Needed
 
 ## Aethestics
@@ -181,16 +187,29 @@ Each room introduces a new CSS concept, ensuring incremental learning. Progress 
 
 *Game region/phase/time are ways of designating a particularly important place in the game.*
 
-- Music List (Ambient sound)
-  - *Game region/phase/time*: *Example 1*, *Example 2*
-  - *Game region/phase/time*: *Example 3*, *Example 4*
+- Music List (Ambient sound) (Inspired, real soundtracks will be made by Jared Miller)
+  - *Spring Music: https://youtu.be/fI9QzlD_sm0?si=jTUmsnK2eE8ATb0s*
+  - *Summer Music: https://youtu.be/k0nqXeM-sns?si=uNHNTh5_Vu4V4RoJ*
+  - *Fall Music: https://youtu.be/idOmc35hlhU?si=rzXzkLr-aTQjyhh-*
+  - *Winter Music: https://youtu.be/AiX1dBfmftA?si=KOaiEYDmbUDvZd1t*
+
   
 *Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 
 - Sound List (SFX)
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
-
+- *Pen Writing: https://pixabay.com/sound-effects/scribble-6144/*
+- *Button Click / Level Select: https://pixabay.com/sound-effects/old-radio-button-click-97549/*
+- *Notebook Flip (Journal Pages): https://pixabay.com/sound-effects/page-flip-47177/* 
+- *Hint bar open: https://pixabay.com/sound-effects/door-open-82528/*
+- *Menu Hover: https://pixabay.com/sound-effects/hover-button-287656/*
+- *Spell Success (CSS correctly applied): https://pixabay.com/sound-effects/window-blind-81230/*
+- *Spell Fail (CSS error):* 
+- *Furniture Placed or Moved:https://pixabay.com/sound-effects/pop-39222/* 
+- *Room Unlocked: https://pixabay.com/sound-effects/success-48018/*
+- *Item Unlocked: https://pixabay.com/sound-effects/item-pick-up-38258/*
+- *New Concept Learned: https://uppbeat.io/sfx/ui-notification-positive-chimes/9473/25323*
+- *CSS Input Confirmed: https://uppbeat.io/sfx/notification-correct-bell/6841/22200 *
+- *Error Input or Failed Validation: https://uppbeat.io/sfx/notification-attention-needed/6827/22177*
 
 # Metadata
 
