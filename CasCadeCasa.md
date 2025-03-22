@@ -29,10 +29,8 @@ The house customization and object placement mechanics are similar to how player
 - *Creative Expression: The game encourages customization and self-expression through decor choices.*
 # Learning Aspects
 ## Learning Domains
-
 *UI/UX Design*
 *Web Development*
-
 ## Target Audiences
 *Beginner & Inermediate CSS users*
 *Hobbyists interested in web development*
@@ -140,26 +138,26 @@ Each room introduces a new CSS concept, ensuring incremental learning. Progress 
 
     
 ## Feedback
-*Types of learning feedback: Praise & Encouragement, Result, Explaination of Mistake, Hint on Next Step, Metacognitive Guidance*
-*Valence: Positve*
-*Channels used: SFX & Animaations*
-*Some examples:*
-*Real-Time Changes: Shows immediate effects of CSS changes.*
-*Audio & Visual Cues: Success animations and sounds for correct solutions.*
-*Journal Progress Reports: Summarizes completed challenges and unlocked skills.*
+- *Types of learning feedback: Praise & Encouragement, Result, Explaination of Mistake, Hint on Next Step, Metacognitive Guidance*
+- *Valence: Positve*
+- *Channels used: SFX & Animaations*
+- *Some examples:*
+- *Real-Time Changes: Shows immediate effects of CSS changes.*
+- *Audio & Visual Cues: Success animations and sounds for correct solutions.*
+- *Journal Progress Reports: Summarizes completed challenges and unlocked skills.*
 # Story and Gameplay
 
 ## Presentation of Rules
 
-*Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
+*For game rules, there will be an onboarding process where a cursor pointer demonstrates how to interact with the game. Players will be asked to try out basic mechanics such as dragging, selecting, and coding with guided prompts. The magic journal will serve as the main narrator for this process, offering encouragement and directing players step-by-step through the tutorial.*
 
 ## Presentation of Content
 
-*Briefly describe how the player will be taught the core material they are meant to learn. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching material iteratively and slowly.*
+*As the player enters a new room, the magic journal introduces the CSS concept in the form of a spell, using magical language to describe CSS properties (e.g., in the living room, the journal says, "To cast the Flex spell is to move the sofa around"). When players select an item from the bar, the journal opens again with a new concept presented in the same whimsical tone. A revision bar on the left side allows players to review past concepts at any time. The journal also revisits earlier concepts in higher-level rooms for reinforcement.*
 
 ## Story (Brief)
 
-*The Summary or TL;DR version of below*
+*The player has just moved to a new town after graduating college. Upon entering their new home, they discover an old, rusty journal on the doorstep. To their surprise, it transforms into a floating, self-writing magic journal. The landlord is nowhere to be found. As it turns out, the journal belonged to one of the player's ancient ancestor - a powerful magic practitioner who believed a well-decorated home ensured harmony and good fortune. To build a happy future, the player must master ancient "CSS Spells" and restore life and balance to each room in the house through thoughtful, magical design.*
 
 ## Storyboarding
 
