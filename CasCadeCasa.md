@@ -172,9 +172,9 @@ Each room introduces a new CSS concept, ensuring incremental learning. Progress 
 ## Graphical
 *Early game sketches*
 ![Journal UI Mockup](graphics/CCNotebook.png)
-![Floorplan](graphics/CCfloorPlanRD (1).png)
-![ColorsAesthetic](graphics/CClivroomFinished (1).png)
-![ColorsAesthetic2](graphics/CClivRoomClick (1).png)
+![Floorplan](graphics/CCfloorPlanR.png)
+![ColorsAesthetic](graphics/CClivroomFinished.png)
+![ColorsAesthetic2](graphics/CClivRoomClick.png)
 
 
 ## Audio
